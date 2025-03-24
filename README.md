@@ -1,53 +1,57 @@
 # 👥 Human Resources Dashboard | Workforce Analytics
-This interactive Human Resources Dashboard provides powerful insights into employee demographics, departmental trends, compensation analysis, and individual employment data. Built for HR teams and leadership, it enables data-driven decision-making across the employee lifecycle.
 
-📊 Dashboard Overview
-🔹 Active Workforce Snapshot
-Active Employees: 7,984
+This interactive **Human Resources Dashboard** provides powerful insights into employee demographics, departmental trends, compensation analysis, and individual employment data. Built for HR teams and leadership, it enables data-driven decision-making across the employee lifecycle.
 
-Hired: 8,950
+---
 
-Terminated: 966
+## 📊 Dashboard Overview
 
-🔹 Departmental Analysis
-Compare hiring vs terminations across departments like Operations, Sales, Customer Service, IT, Marketing, Finance, and HR.
+### 🔹 Active Workforce Snapshot
+- **Active Employees**: 7,984  
+- **Hired**: 8,950  
+- **Terminated**: 966  
 
-🔹 Demographic Insights
-Gender distribution
+### 🔹 Departmental Analysis
+- Compare hiring vs terminations across departments like Operations, Sales, Customer Service, IT, Marketing, Finance, and HR.
 
-Education level by age group
+### 🔹 Demographic Insights
+- Gender distribution  
+- Education level by age group  
+- Education level vs performance  
 
-Education level vs performance
+### 🔹 Income Insights
+- Salary breakdown by **education** and **gender**  
+- Scatter plot of **age vs salary**, highlighting key roles (e.g., Finance Manager, IT Manager)
 
-🔹 Income Insights
-Salary breakdown by education and gender
+### 🔹 Geographic Distribution
+- Map view of employee concentration by state  
+- HQ vs branch workforce split
 
-Scatter plot of age vs salary, highlighting key roles (e.g., Finance Manager, IT Manager)
+---
 
-🔹 Geographic Distribution
-Map view of employee concentration by state
+## 📋 Employee Details View
 
-HQ vs branch workforce split
-
-📋 Employee Details View
 An interactive, filterable employee directory with key information such as:
 
-Employee ID, Name, Gender, Age Group, Education
+- **Employee ID, Name, Gender, Age Group, Education**
+- **Job Title, Department, Salary, Location**
+- **Status (Hired/Terminated), Date of Hire**
+- **Length of Employment** (in years)
 
-Job Title, Department, Salary, Location
+### 🔍 Key Features:
+- Dynamic filters for location, department, salary range, and education
+- Bar indicators for employment length
+- Export functionality for PDF reports
 
-Status (Hired/Terminated), Date of Hire
+---
 
-Length of Employment (in years)
+## 🖼️ Dashboard Snapshots
 
-🔍 Key Features:
-Dynamic filters for location, department, salary range, and education
+### 🔎 Overview Page  
+![HR Dashboard Overview](HR_dashboard_overview.png)
 
-Bar indicators for employment length
+### 📋 Employee Details Page  
+![HR Dashboard Details](HR_dashboard_details.png)
 
-Export functionality for PDF reports
+---
 
-🖼️ Dashboard Snapshots
-Overview Page
-
-Employee Details Page
