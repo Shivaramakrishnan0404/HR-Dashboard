@@ -1,6 +1,7 @@
 # 👥 Human Resources Dashboard | Workforce Analytics
 
 **Human Resources Dashboard** provides powerful insights into employee demographics, departmental trends, compensation analysis, and individual employment data. Built for HR teams and leadership, it enables data-driven decision-making across the employee lifecycle.
+
 View it here(https://public.tableau.com/app/profile/shivaramakrishnan.rajendran/viz/HRDashboard_17404511612260/HROverview)
 
 
